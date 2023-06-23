@@ -14,9 +14,9 @@
 c は 0-14 歳、a は 15-64歳、e は 65-歳です。<br>
 IR は全世代のものしかありません。（計算することはできますが、していません。）
 
-- result80.csv
+- result80.csv<br>
 接触8割減のグラフに関するデータです。
-- result65.csv
+- result65.csv<br>
 接触65%減のグラフに関するデータです。
 
 計算に用いたスクリプトは、こちらです。<br>
@@ -25,8 +25,9 @@ https://colab.research.google.com/drive/1pBfw46ikkuWACulelljYzuZZxR71tfSv?usp=sh
 このグラフに関しては色々と書いていますが、一部を挙げておきます。
 
 - https://twitter.com/sarkov28/status/1663108028747612162<br>
-- https://twitter.com/sarkov28/status/1463852276494180352
-  特に、ここに置いた計算の妥当性を示すもの：<br>
+- https://twitter.com/sarkov28/status/1463852276494180352<br>
+  特に、ここに置いた計算の妥当性を示す図はこちら。<br>
+  西浦氏がこの計算の詳細を示さらないので、この計算の妥当性は視覚的に判断するしかありません。<br>
   - https://twitter.com/sarkov28/status/1463854118863130634
 - https://twitter.com/sarkov28/status/1632623636602560512
 
