@@ -26,8 +26,8 @@ https://colab.research.google.com/drive/1pBfw46ikkuWACulelljYzuZZxR71tfSv?usp=sh
 
 - https://twitter.com/sarkov28/status/1663108028747612162<br>
 - https://twitter.com/sarkov28/status/1463852276494180352<br>
-  特に、ここに置いた計算の妥当性を示す図はこちら。<br>
-  西浦氏がこの計算の詳細を示さらないので、この計算の妥当性は視覚的に判断するしかありません。<br>
+  特に、ここに置いた計算の妥当性を示す図はこちら。図の一番下のグラフが、ここの計算です。<br>
+  西浦氏が計算の詳細を示さないので、この計算の妥当性は視覚的に判断するしかありません。<br>
   - https://twitter.com/sarkov28/status/1463854118863130634
 - https://twitter.com/sarkov28/status/1632623636602560512
 
