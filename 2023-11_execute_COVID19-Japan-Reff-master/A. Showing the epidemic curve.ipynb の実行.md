@@ -1,7 +1,7 @@
 ## "A. Showing the epidemic curve.ipynb" を google colab で動かす
 "A. Showing the epidemic curve.ipynb" は、西浦氏が github のリポジトリ https://github.com/contactmodel/COVID19-Japan-Reff で公開している（jupyter notebook の）プログラムです。
 
-"A. Showing the epidemic curve.ipynb" は、google colab 上で動かすことができます。
+"A. Showing the epidemic curve.ipynb" と同じ結果と思われるものを、google colab 上で得ることができます。
 なお、"B. Calculating Rt using Maximum likelihood estimation.ipynb" も動かすことできるのですが、
 "C. Calculating the Rt in RStan.ipynb" は現時点では動きません。
 
@@ -12,17 +12,20 @@ google のアカウントでログインしている状態を前提としてい�
 google colab のファイル
 https://colab.research.google.com/drive/1pnG09AcFwPVzilBwrPfzcJu3l1sH_Vi4?usp=drive_link
 を開きます。
+このファイルと、（西浦氏が公開した）オリジナルとの相違は、以下です。
+- 冒頭のコメント
+- 「(2) データファイル」に書いたデータの位置の変更
 
 #### (2) データファイル
 データファイルは、西浦氏が github 上に公開しているものを使います。
 元々のプログラムは、データファイルがファイルがローカルPC上にあることを想定していました。
-私が github 上のデータを読むように改変しました。
+（この想定だと、データファイルを google colab に（毎回）アップロードしないと動作しないため、）私は、github 上のデータを読むように改変しました。
 
 #### (3) 計算処理
 google colab のメニューで [ランタイム] [すべてのセルを実行] を選択すると、計算を行います。
 (5)にも関連事項が書いてあります。
 
-計算は、しばらく時間が掛りますが、数分かからずに終わります。
+計算は、しばらく時間が掛りますが、数分程度で終わります。
 
 #### (4) 結果
 手元で実行したところ、以下が得られました。
