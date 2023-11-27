@@ -1,0 +1,38 @@
+## "A. Showing the epidemic curve.ipynb" を google colab で動かす
+"A. Showing the epidemic curve.ipynb" は、西浦氏が github のリポジトリ https://github.com/contactmodel/COVID19-Japan-Reff で公開している（jupyter notebook の）プログラムです。
+
+"A. Showing the epidemic curve.ipynb" は、google colab 上で動かすことができます。
+なお、"B. Calculating Rt using Maximum likelihood estimation.ipynb" も動かすことできるのですが、
+"C. Calculating the Rt in RStan.ipynb" は現時点では動きません。
+
+google のアカウントでログインしている状態を前提としています。
+ログインしていなくても動作するかも知れませんが、確認していません。
+
+#### (1) プログラムファイル
+google colab のファイル
+https://colab.research.google.com/drive/1pnG09AcFwPVzilBwrPfzcJu3l1sH_Vi4?usp=drive_link
+を開きます。
+
+#### (2) データファイル
+データファイルは、西浦氏が github 上に公開しているものを使います。
+元々のプログラムは、データファイルがファイルがローカルPC上にあることを想定していました。
+私が github 上のデータを読むように改変しました。
+
+#### (3) 計算処理
+google colab のメニューで [ランタイム] [すべてのセルを実行] を選択すると、計算を行います。
+(5)にも関連事項が書いてあります。
+
+計算は、しばらく時間が掛りますが、数分かからずに終わります。
+
+#### (4) 結果
+手元で実行したところ、以下が得られました。
+- "Cases with known date of illness onset" のグラフ。（下から1/3程の位置）
+- "Cases with unknown date of illness onset" のグラフ。（ほぼ一番下。）
+
+#### (5) 留意事項
+- 再実行する前に出力をクリアするには、[編集] メニューの [出力を全て消去] を選択して下さい。
+  通常は、これを行う必要はありません。
+- 全てのセルを実行するには、[ランタイム] メニュー [すべてのセルを実行] を選択して下さい。
+- 何か修正を行って、再実行する場合は、[ランタイム] [再起動してすべてのセルを実行] を選択する方がいいかも知れません。
+google colab の使い方の詳細は、別途お調べ頂いた方がいいと思います。
+
