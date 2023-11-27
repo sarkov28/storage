@@ -17,7 +17,8 @@ https://colab.research.google.com/drive/1pnG09AcFwPVzilBwrPfzcJu3l1sH_Vi4?usp=dr
 - 「(2) データファイル」に書いたデータの位置の変更
 
 #### (2) データファイル
-データファイルは、西浦氏が github 上に公開しているものを使います。
+データファイルは、西浦氏が github 上に公開しているものを使います。<br>
+https://raw.githubusercontent.com/contactmodel/COVID19-Japan-Reff/master/data/JapaneseDataCOVID19%20(200510).csv<br>
 元々のプログラムは、データファイルがファイルがローカルPC上にあることを想定していました。
 （この想定だと、データファイルを google colab に（毎回）アップロードしないと動作しないため、）私は、github 上のデータを読むように改変しました。
 

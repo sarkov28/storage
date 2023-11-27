@@ -10,15 +10,32 @@ google のアカウントでログインしている状態を前提としてい�
 
 #### (1) プログラムファイル
 google colab のファイル
-https://colab.research.google.com/drive/1HimDQe9MSaQRwwmtvPD1I82d-2UeaAxP?usp=drive_link
+https://colab.research.google.com/drive/1ejsmBCplrks1G6CPCkjQMU9icrm1_-kl?usp=sharing
 を開きます。
-このファイルと、（西浦氏が公開した）オリジナルとの相違は、以下です。
+このファイルと、西浦氏が公開しているファイル（2021-11-22 修正版）との相違は、以下です。
 - 冒頭のコメント
 - 「(2) データファイル」に書いたデータの位置の変更
 - 計算モジュール surveillance を（google colab に）インストールする行の追加
+- 計算結果ファイルの出力先ディレクトリの変更
+- 2021-11-22 の修正にともなうバグを、類似処理と同様の形に修正
+
+このうち最後は、括弧の不対応なので、バグであることは間違いありません。
+一方で、私の修正が正しい保証はありません。
+
+バグの修正は以下です。
+---- 修正前<br>
+for (m in (Start.T-2):max(dt.backproj$t)){<br>
+    for (n in 1:(m-1){precal[m-Start.T+2+1,n] <- infectiontoreport(m,n)}}<br>
+----<br>
+---- sarkov28 による修正<br>
+for (m in (Start.T-2):max(dt.backproj$t)){<br>
+    for (n in 1:(m-1)){precal[m-Start.T+2+1,n] <- infectiontoreport(m,n)}}<br>
+----<br>
+上にも書きましたが、「sarkov28 による修正」では、別の類似処理と同じにしています。
 
 #### (2) データファイル
-データファイルは、西浦氏が github 上に公開しているものを使います。
+データファイルは、西浦氏が github 上に公開しているものを使います。<br>
+https://raw.githubusercontent.com/contactmodel/COVID19-Japan-Reff/master/data/JapaneseDataCOVID19%20(200510).csv<br>
 元々のプログラムは、データファイルがファイルがローカルPC上にあることを想定していました。
 私が github 上のデータを読むように改変しました。
 
@@ -45,4 +62,5 @@ google colab のメニューで [ランタイム] [すべてのセルを実行] 
 - 何か修正を行って、再実行する場合は、[ランタイム] [再起動してすべてのセルを実行] を選択する方がいいかも知れません。
 google colab の使い方の詳細は、別途お調べ頂いた方がいいと思います。
 - 一部のセルの実行で警告メッセージが出ますが、手元で実行した際については、全体は正常終了したと思われます。
+- 2021-11-22 の修正は、（上の私の修正が正しいなら、）出力されたグラフで見る限りは軽微なものでした。
 
