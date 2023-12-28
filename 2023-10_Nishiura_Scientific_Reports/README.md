@@ -4,10 +4,10 @@ https://sarkov28.hatenablog.com/entry/2023/12/27/215500
 
 このディレクトリには、共通して使う図表を置いています。
 
-2023-10_Nishiura_Scientific_Reports_Figure_1.png
+Figure_1.png
 は、論文の Figure 1 です。
 
-2023-10_Nishiura_Scientific_Reports_Supplementary_Information_Table_S1.png
+Table_S1.png
 は、論文の補足情報の Table S1 です。
 
 document01 には、https://sarkov28.hatenablog.com/entry/2023/12/27/215500 で使う図表を置いています。
