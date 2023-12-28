@@ -10,6 +10,9 @@ Figure_1.png
 Table_S1.png
 は、論文の補足情報の Table S1 です。
 
+Figure_S4.png
+は、論文の補足情報の Figure S4 です。
+
 document01 には、https://sarkov28.hatenablog.com/entry/2023/12/27/215500 で使う図表を置いています。
-document02 には、https://sarkov28.hatenablog.com/entry/2023/12/28/092537 で使う図表を置いています。
+document02 には、https://sarkov28.hatenablog.com/entry/2023/12/28/082400 で使う図表を置いています。
 
