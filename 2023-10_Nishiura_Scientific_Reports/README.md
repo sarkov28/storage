@@ -5,4 +5,6 @@
   - Figure_S4.png は、論文の補足情報の Figure S4 です。
 - document01 には、https://sarkov28.hatenablog.com/entry/2023/12/27/215500 で使う図表を置いています。
 - document02 には、https://sarkov28.hatenablog.com/entry/2023/12/28/082400 で使う図表を置いています。
+- document03 には、https://sarkov28.hatenablog.com/entry/2023/12/30/171500 で使う図表を置いています。
+- document04 には、https://sarkov28.hatenablog.com/entry/2023/12/30/174500 で使う図表を置いています。
 
