@@ -18,7 +18,7 @@ https://sarkov28.hatenablog.com/entry/2023/12/28/082400<br>
 https://sarkov28.hatenablog.com/entry/2023/12/30/171500<br>
 で使う図表を置いています。
 - document04 には、<br>
-（４）Table S1 のパラメータは、全て再計算されるべき
+（４）Table S1 のパラメータは再計算されるべき
 https://sarkov28.hatenablog.com/entry/2023/12/30/174500<br>
 で使う図表を置いています。
 
