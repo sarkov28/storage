@@ -7,7 +7,7 @@
   - Figure_S4.png は、論文の補足情報の Figure S4 です。
   - Figure_S5.png は、論文の補足情報の Figure S5 です。
 - document01 には、<br>
-（１）西浦氏による記事の紹介は不適切<br>
+（１）論文の最大の特徴は、類のない非現実的な想定<br>
 https://sarkov28.hatenablog.com/entry/2023/12/27/215500<br>
 で使う図表を置いています。
 - document02 には、<br>
