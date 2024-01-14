@@ -2,6 +2,7 @@
 - このディレクトリには、共通して使う図表を置いています。
   - Figure_1.png は、論文の Figure 1 です。
   - Figure_1_part_1.png は、論文の Figure 1 の一部を拡大したものです。
+  - Figure_2B.png は、論文の Figure 2B です。
   - Table_S1.png は、論文の補足情報の Table S1 です。
   - Figure_S2.png は、論文の補足情報の Figure S2 です。
   - Figure_S4.png は、論文の補足情報の Figure S4 です。
