@@ -1,4 +1,5 @@
 ## 2023-10 の西浦氏らの Scientific Reports 論文に関するブログ記事で使う図表
+- 論文は https://www.nature.com/articles/s41598-023-44942-6 です。
 - このディレクトリには、共通して使う図表を置いています。
   - Figure_1.png は、論文の Figure 1 です。
   - Figure_1_part_1.png は、論文の Figure 1 の一部を拡大したものです。
