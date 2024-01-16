@@ -1,6 +1,8 @@
 ## 2023-10 の西浦氏らの Scientific Reports 論文に関するブログ記事で使う図表
 - 論文は https://www.nature.com/articles/s41598-023-44942-6 です。
 - このディレクトリには、共通して使う図表を置いています。
+  - cumulative_newI_per_pop.png は、論文 補助情報 41598_2023_44942_MOESM2_ESM.csv から計算した累積の新規感染者数の人口比です。
+  - Figure_1.png は、論文の Figure 1 です。
   - Figure_1.png は、論文の Figure 1 です。
   - Figure_1_part_1.png は、論文の Figure 1 の一部を拡大したものです。
   - Figure_2B.png は、論文の Figure 2B です。
