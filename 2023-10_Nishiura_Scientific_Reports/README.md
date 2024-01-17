@@ -3,7 +3,6 @@
 - このディレクトリには、共通して使う図表を置いています。
   - cumulative_newI_per_pop.png は、論文 補足情報 41598_2023_44942_MOESM2_ESM.csv から計算した累積の新規感染者数の人口比です。
   - Figure_1.png は、論文の Figure 1 です。
-  - Figure_1.png は、論文の Figure 1 です。
   - Figure_1_part_1.png は、論文の Figure 1 の一部を拡大したものです。
   - Figure_2B.png は、論文の Figure 2B です。
   - Figure_S1B.png は、論文の補足情報の Figure S1B です。
