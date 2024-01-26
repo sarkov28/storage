@@ -8,3 +8,10 @@
 - B. Calculating Rt using Maximum likelihood estimation.ipynb  
 - C. Calculating the Rt in RStan.ipynb
 
+data フォルダには、これらを動かすためのデータが置いてあります。<br>
+（各スクリプトの中には、ここのデータではなく、オリジナルのリポジトリのデータファイルを読んでいるものもあります。）
+- JapaneseDataCOVID19 (200510).csv<br>
+オリジナルのデータです。
+- JapaneseDataCOVID19 (200510)_2.csv, JapaneseDataCOVID19 (200510)_4.csv, JapaneseDataCOVID19 (200510)_8.csv<br>
+オリジナルのデータのデータ部分を2倍、4倍、8倍にしたデータです。
+
