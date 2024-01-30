@@ -4,6 +4,6 @@
 （６）論文の実効再生産数と活動度の一部期間での一致<br>
 https://sarkov28.hatenablog.com/entry/2024/01/23/193500<br>
 で使う図表を置いています。
-- 3_periods+Annotated.png は、3_periods.png に説明を加筆したものです。
-- Figure_2B+h_t_a-c+Annotated.png は、Figure_2B+h_t_a-c.png に説明を加筆したものです。
+- 3_periods__Annotated.png は、3_periods.png に説明を加筆したものです。
+- Figure_2B+h_t_a-c__Annotated.png は、Figure_2B+h_t_a-c.png に説明を加筆したものです。
 
