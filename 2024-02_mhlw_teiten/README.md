@@ -12,13 +12,13 @@ https://www.niid.go.jp/niid/ja/data/12442-idwr-sokuho-data-j-2352.html
 https://www.niid.go.jp/niid/ja/data/12519-idwr-sokuho-data-j-2406.html
 
 ### （２）作成したグラフと、グラフ作成に用いたデータ
-（１）のデータから週次の定点のデータを抜き出し、グラフを作成した。
+（１）のデータから週次の定点のデータを抜き出したファイルを作成し、グラフを作成した。
 
-- graph_chiba.png<br>
-確認用に作成した、厚労省ページと同条件のグラフ。
-- graph_flu.png<br>
+- graph_Chiba_flu_c19<br>
+確認用に作成した、厚労省ページと似た体裁のグラフ。
+- graph_47_flu.png<br>
 千葉県と他の都道府県のインフルエンザのグラフ。
-- graph_COVID-19.png<br>
+- graph_47_c19.png<br>
 千葉県と他の都道府県の新型コロナのグラフ。
 - data_flu_sjis.csv と data_flu_utf8.csv<br>
 インフルエンザのデータ。前者は文字コード shift-jis。後者は utf8。
