@@ -13,6 +13,7 @@ https://www.niid.go.jp/niid/ja/data/12519-idwr-sokuho-data-j-2406.html<br>
 
 ### （２）作成したグラフと、グラフ作成に用いたデータ
 （１）のデータから週次の定点のデータを抜き出し、グラフを作成した。
+
 -　graph_chiba.png<br>
 確認用に作成した、厚労省ページと同条件のグラフ
 - graph_flu.png<br>
