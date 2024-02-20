@@ -20,8 +20,8 @@ https://www.niid.go.jp/niid/ja/data/12519-idwr-sokuho-data-j-2406.html
 千葉県と他の都道府県のインフルエンザのグラフ。
 - graph_47_c19.png<br>
 千葉県と他の都道府県の新型コロナのグラフ。
-- data_flu_sjis.csv と data_flu_utf8.csv<br>
-インフルエンザのデータ。前者は文字コード shift-jis。後者は utf8。
-- data_COVID-19_sjis.csv と data_COVID-19_utf8.csv<br>
-新型コロナのデータ。前者は文字コード shift-jis。後者は utf8。
+- data_47_flu_sjis.csv と data_47_flu_utf8.csv<br>
+インフルエンザのデータ。文字コードが前者は shift-jis。後者は utf8。
+- data_47_c19_sjis.csv と data_47_c19_utf8.csv<br>
+新型コロナのデータ。文字コードが前者は shift-jis。後者は utf8。
 
