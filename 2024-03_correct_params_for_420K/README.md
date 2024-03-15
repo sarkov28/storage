@@ -6,15 +6,16 @@
 
 ### 西浦氏のパラメータに誤りがあると考える理由
 西浦氏は、「42万死亡推計」に関する情報を、ネット記事や github で開示しています。<br>
-https://www.newsweekjapan.jp/stories/world/2020/06/8-39_1.php<br>
-https://github.com/contactmodel/COVID19-Japan-Reff/blob/master/BerkleyMadonna_May2020.txt<br>
+
+- https://www.newsweekjapan.jp/stories/world/2020/06/8-39_1.php
+- https://github.com/contactmodel/COVID19-Japan-Reff/blob/master/BerkleyMadonna_May2020.txt
 
 この開示情報で計算すれば「42万」や「41.8万」が再現できるはずです。<br>
 ところが実際に計算してみると、計算結果は 42.7万となってしまいます。この値をどこかの桁で四捨五入しても、42万 や 41.8万 にはなりません。
 
 「西浦氏が開示したパラメータ」か「私の計算」かどちらかに間違いがあります。
 
-私の計算に問題がないこと、したがって西浦氏が開示したパラメータの方が合理的であることは、本来ならば私が計算に使ったプログラム（https://colab.research.google.com/drive/1ZvY-HmOvh3AS7OnjJdFh0lBw_OfTX5cU?usp=sharing）を見て頂ければ済んでいます。このプログラムは、私の計算を直接示していて、お手元のブラウザ上でも動作するのですから、もし問題があるとお考えならばこのプログラムの間違いを具体的にご指摘頂ければ、ということです。（お気づきの点があれば、よろしくお願いします。）
+私の計算に問題がないこと、したがって西浦氏が開示したパラメータの方が合理的であることは、本来ならば私が計算に使ったプログラム https://colab.research.google.com/drive/1ZvY-HmOvh3AS7OnjJdFh0lBw_OfTX5cU?usp=sharing を見て頂ければ済んでいます。このプログラムは、私の計算を直接示していて、お手元のブラウザ上でも動作するのですから、もし問題があるとお考えならばこのプログラムの間違いを具体的にご指摘頂きたい、ということです。（お気づきの点があれば、よろしくお願いします。）
 
 しかしそれでは python をお使いにならない方へのご説明としてどうかと思います。また、プログラムそのものを検討しなくても、計算の途中経過で出てくる値を公開情報と照合したり、計算のパラメータの値を検討すると、私の計算の方が正しいと考えられる傍証があります。
 
