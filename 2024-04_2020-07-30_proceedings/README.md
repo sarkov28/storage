@@ -7,6 +7,7 @@
 この議事録は、2004年に、新型インフルエンザに関して、
 - 医療行為が一切行われないという、現実とは異なる前提で、
 - 死者１０万人超と試算
+
 などと報道 [1] された件の、基となったと思われる会議 [2] の、議事録です。<br>
 会議では、この計算を「メルツァーの数学的モデル」によるなどと述べています。
 
@@ -30,7 +31,7 @@
     https://www.mhlw.go.jp/shingi/2004/07/s0721-4.html
 
 - [1] の報道を伝える web ページ<br>
-  https://www.med.oita-u.ac.jp/infectnet/influenza/influ_report_00253.html
-- そのアーカイブ<br>
-  https://web.archive.org/web/20040906212933/https://www.med.oita-u.ac.jp/infectnet/influenza/influ_report_00253.html
+  - https://www.med.oita-u.ac.jp/infectnet/influenza/influ_report_00253.html
+  - そのアーカイブ<br>
+    https://web.archive.org/web/20040906212933/https://www.med.oita-u.ac.jp/infectnet/influenza/influ_report_00253.html
 
