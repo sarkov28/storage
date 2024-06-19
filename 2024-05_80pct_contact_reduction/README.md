@@ -15,5 +15,9 @@
 - ./blog02/<br>
 関連するブログに関するファイルを置いています。<br>
   - 西浦氏ら専門家が示すべきだった「接触8割減」の説明<br>
-  https://sarkov28.hatenablog.com/entry/2024/06/17/092401
+  https://sarkov28.hatenablog.com/entry/2024/06/17/150500
+- ./blog03/<br>
+関連するブログに関するファイルを置いています。<br>
+  - 西浦氏は「接触8割減」の数理モデルを示していない<br>
+  https://sarkov28.hatenablog.com/entry/2024/06/19/213400
 
