@@ -17,5 +17,5 @@
     https://sarkov28.hatenablog.com/entry/2024/06/17/150500
   - ./blog03/<br>
     西浦氏は「接触8割減」の数理モデルを示していない<br>
-    https://sarkov28.hatenablog.com/entry/2024/06/19/213400
+    https://sarkov28.hatenablog.com/entry/2024/06/20/130400
 
