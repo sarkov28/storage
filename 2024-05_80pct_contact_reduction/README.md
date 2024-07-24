@@ -1,11 +1,13 @@
 ここに置いてあるものは以下です。
 
 - policy_basis_80pct_contact_reduction.pdf<br>
-「接触8割減」政策の科学的根拠（最新版、現在はβ版）
+「接触8割減」政策の科学的根拠（最新版、現在は2024-07-24 改訂版）
 - policy_basis_80pct_contact_reduction_alpha.pdf<br>
 「接触8割減」政策の科学的根拠（α版）
 - policy_basis_80pct_contact_reduction_beta.pdf<br>
 「接触8割減」政策の科学的根拠（β版）
+- policy_basis_80pct_contact_reduction_2024-07-24.pdf<br>
+「接触8割減」政策の科学的根拠（2024-07-24 改訂版）
 - 関連するブログで使うファイルを置いています。<br>
   - ./blog01/<br>
     「接触8割減」政策の科学的根拠<br>
