@@ -14,4 +14,6 @@ data フォルダには、これらを動かすためのデータが置いてあ
 オリジナルのデータです。
 - JapaneseDataCOVID19 (200510)_2.csv, JapaneseDataCOVID19 (200510)_4.csv, JapaneseDataCOVID19 (200510)_8.csv<br>
 オリジナルのデータのデータ部分を2倍、4倍、8倍にしたデータです。
+- JapaneseDataCOVID19 (200406).csv<br>
+JapaneseDataCOVID19 (200510).csv のうち、日付データが 2020-04-06 以前であるものを抜き出したデータです。
 
