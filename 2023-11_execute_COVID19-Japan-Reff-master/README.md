@@ -11,9 +11,11 @@
 data フォルダには、これらを動かすためのデータが置いてあります。<br>
 （各スクリプトの中には、ここのデータではなく、オリジナルのリポジトリのデータファイルを読んでいるものもあります。）
 - JapaneseDataCOVID19 (200510).csv<br>
-オリジナルのデータです。
+上に示したリポジトリにあるオリジナルのデータです。
 
-data_modified フォルダには、私が改変したデータが置いてあります。
+data_modified フォルダには、オリジナルのデータと、私が改変したデータが置いてあります。
+- JapaneseDataCOVID19 (200510).csv<br>
+上に示したリポジトリにあるオリジナルのデータです。
 - JapaneseDataCOVID19 (200510)_2.csv, JapaneseDataCOVID19 (200510)_4.csv, JapaneseDataCOVID19 (200510)_8.csv<br>
 オリジナルのデータのデータ部分を2倍、4倍、8倍にしたデータです。
 - JapaneseDataCOVID19 (200407).csv<br>
