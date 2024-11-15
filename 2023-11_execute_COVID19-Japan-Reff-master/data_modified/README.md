@@ -1,7 +1,7 @@
 ## https://github.com/contactmodel/COVID19-Japan-Reff のスクリプトを、google colab で動かす
-リポジトリ https://github.com/contactmodel/COVID19-Japan-Reff には、西浦氏が公開した実効再生産数の計算などを行うスクリプトがあります。<br>
+実質的に西浦氏によるリポジトリ https://github.com/contactmodel/COVID19-Japan-Reff には、西浦氏が公開した実効再生産数の計算などを行うスクリプトがあります。<br>
 
-このフォルダには、これらスクリプトを動作させる際に使うデータが置いてあります。
+このフォルダには、これらスクリプトで計算する際の入力データが置いてあります。
 - JapaneseDataCOVID19 (200510).csv<br>
 上に示したリポジトリにあるオリジナルのデータです。
 - JapaneseDataCOVID19 (200407).csv<br>
