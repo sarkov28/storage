@@ -8,5 +8,7 @@
 オリジナルのデータから、日付データが 2020-04-06 以前のものを抜き出したデータです。
 - JapaneseDataCOVID19 (200415).csv<br>
 オリジナルのデータから、日付データが 2020-04-14 以前のものを抜き出したデータです。
+- delay_precalc.csv<br>
+"B. Calculating Rt using Maximum likelihood estimation.ipynb" が計算した delay_precalculation のデータです。
 - JapaneseDataCOVID19 (200510)_2.csv, JapaneseDataCOVID19 (200510)_4.csv, JapaneseDataCOVID19 (200510)_8.csv<br>
 オリジナルのデータのデータ部分を2倍、4倍、8倍にしたデータです。

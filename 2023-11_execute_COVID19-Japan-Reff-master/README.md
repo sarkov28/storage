@@ -13,12 +13,14 @@ data フォルダには、これらスクリプトで計算する際の入力デ
 - JapaneseDataCOVID19 (200510).csv<br>
 上に示したリポジトリにもあるオリジナルのデータです。
 
-data_modified フォルダには、オリジナルのデータと、私が改変したデータが置いてあります。
+data_misc フォルダには、オリジナルのデータと、その他のデータが置いてあります。
 - JapaneseDataCOVID19 (200510).csv<br>
 上に示したリポジトリにあるオリジナルのデータです。
 - JapaneseDataCOVID19 (200407).csv<br>
 オリジナルのデータから、日付データが 2020-04-06 以前のものを抜き出したデータです。
 - JapaneseDataCOVID19 (200415).csv<br>
 オリジナルのデータから、日付データが 2020-04-14 以前のものを抜き出したデータです。
+- delay_precalc.csv<br>
+"B. Calculating Rt using Maximum likelihood estimation.ipynb" が計算した delay_precalculation のデータです。
 - JapaneseDataCOVID19 (200510)_2.csv, JapaneseDataCOVID19 (200510)_4.csv, JapaneseDataCOVID19 (200510)_8.csv<br>
 オリジナルのデータのデータ部分を2倍、4倍、8倍にしたデータです。
