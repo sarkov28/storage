@@ -14,9 +14,3 @@ data フォルダには、これらスクリプトで計算する際の入力デ
 上に示したリポジトリにもあるオリジナルのデータです。
 
 data_misc フォルダには、オリジナルのデータと、その他のデータが置いてあります。
-- JapaneseDataCOVID19 (200510).csv<br>
-上に示したリポジトリにあるオリジナルのデータです。
-- delay_precalc.csv<br>
-"B. Calculating Rt using Maximum likelihood estimation.ipynb" が計算した delay_precalculation のデータです。
-- JapaneseDataCOVID19 (200510)_2.csv, JapaneseDataCOVID19 (200510)_4.csv, JapaneseDataCOVID19 (200510)_8.csv<br>
-オリジナルのデータのデータ部分を2倍、4倍、8倍にしたデータです。
