@@ -14,10 +14,10 @@
 
 関連するデータ:
 - JapaneseDataCOVID19_(200510)\_count1.csv<br>
-  JapaneseDataCOVID19_(200510).csv のデータを、onset, confirmed, reported の日付毎に集計したものです。
+  JapaneseDataCOVID19_(200510).csv を、onset, confirmed, reported の日付毎に集計したものです。
 - JapaneseDataCOVID19_(200510)\_count2.csv<br>
-  JapaneseDataCOVID19_(200510).csv のデータを、imported, domestic 毎、onset, confirmed, reported の日付毎に集計したものです。
+  JapaneseDataCOVID19_(200510).csv を、imported, domestic 毎、onset, confirmed, reported の日付毎に集計したものです。
 - delay_precalc.csv<br>
-  "B. Calculating Rt using Maximum likelihood estimation.ipynb" が計算した delay_precalculation のデータです。
+  "B. Calculating Rt using Maximum likelihood estimation.ipynb" が計算する delay_precalculation のデータです。
 - delay_precalc.png<br>
   delay_precalc.csv のグラフです。
