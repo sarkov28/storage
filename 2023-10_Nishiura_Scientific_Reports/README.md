@@ -1,7 +1,12 @@
 ## 2023-10 の西浦氏らの Scientific Reports 論文に関するブログ記事で使う図表
-- 論文は https://www.nature.com/articles/s41598-023-44942-6 です。
+- 論文は以下です。<br>
+  https://www.nature.com/articles/s41598-023-44942-6<br>
+  https://doi.org/10.1038/s41598-023-44942-6
+- 補足情報は以下です。<br>
+  https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-023-44942-6/MediaObjects/41598_2023_44942_MOESM1_ESM.docx<br>
+  https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-023-44942-6/MediaObjects/41598_2023_44942_MOESM2_ESM.csv<br>
+  https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-023-44942-6/MediaObjects/41598_2023_44942_MOESM3_ESM.csv
 - このディレクトリには、共通して使う図表を置いています。
-  - cumulative_newI_per_pop.png は、論文 補足情報 41598_2023_44942_MOESM2_ESM.csv から計算した、累積の新規感染者数の人口比です。
   - Figure_1.png は、論文の Figure 1 です。
   - Figure_1_part_1.png は、論文の Figure 1 の一部を拡大したものです。
   - Figure_2B.png は、論文の Figure 2B です。
@@ -10,6 +15,7 @@
   - Figure_S4.png は、論文の補足情報の Figure S4 です。
   - Figure_S5.png は、論文の補足情報の Figure S5 です。
   - Table_S1.png は、論文の補足情報の Table S1 です。
+  - cumulative_newI_per_pop.png は、論文 補足情報 41598_2023_44942_MOESM2_ESM.csv から計算した、累積の新規感染者数の人口比です。
 - document01 には、<br>
 （１）論文の最大の特徴は、類のない非現実的な想定<br>
 https://sarkov28.hatenablog.com/entry/2023/12/27/215500<br>
