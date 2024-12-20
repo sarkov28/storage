@@ -15,4 +15,6 @@ https://sarkov28.hatenablog.com/entry/2024/12/17/184600<br>
   https://x.com/nishiurah/status/1719494672786321896 のキャプチャです。
 - tw_nishiurah_20231116_1939.png<br>
   https://x.com/nishiurah/status/1725101388987019748 のキャプチャです。
+- scenario_relationship_diagram.png.png<br>
+  は、ブログの図2.1 です。
 
