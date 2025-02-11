@@ -18,27 +18,30 @@
   - Table_S1.png は、論文の補足情報の Table S1 です。
   - cumulative_newI_per_pop.png は、論文 補足情報 41598_2023_44942_MOESM2_ESM.csv から計算した、累積の新規感染者数の人口比です。
 - document01 には、<br>
-（１）論文の最大の特徴は、類のない非現実的な想定<br>
-https://sarkov28.hatenablog.com/entry/2023/12/27/215500<br>
-で使う図表を置いています。
+  （１）論文の最大の特徴は、類のない非現実的な想定<br>
+  https://sarkov28.hatenablog.com/entry/2023/12/27/215500<br>
+  で使う図表を置いています。
 - document02 には、<br>
-（２）論文 式(3)、式(8)の無駄なパラメータ<br>
-https://sarkov28.hatenablog.com/entry/2023/12/28/082400<br>
-で使う図表を置いています。
+  （２）論文 式(3)、式(8)の無駄なパラメータ<br>
+  https://sarkov28.hatenablog.com/entry/2023/12/28/082400<br>
+  で使う図表を置いています。
 - document03 には、<br>
-（３）活動度は報告率によって変化すべきではない<br>
-https://sarkov28.hatenablog.com/entry/2023/12/30/171500<br>
-で使う図表を置いています。
+  （３）活動度は報告率によって変化すべきではない<br>
+  https://sarkov28.hatenablog.com/entry/2023/12/30/171500<br>
+  で使う図表を置いています。
 - document04 には、<br>
-（４）Table S1 のパラメータは再計算されるべき<br>
-https://sarkov28.hatenablog.com/entry/2023/12/30/174500<br>
-で使う図表を置いています。
+  （４）Table S1 のパラメータは再計算されるべき<br>
+  https://sarkov28.hatenablog.com/entry/2023/12/30/174500<br>
+  で使う図表を置いています。
 - document05 には、<br>
-（５）論文 Figure 1 を構成しているパラメータの検討<br>
-https://sarkov28.hatenablog.com/entry/2024/01/23/193100<br>
-で使う図表を置いています。
+  （５）論文 Figure 1 を構成しているパラメータの検討<br>
+  https://sarkov28.hatenablog.com/entry/2024/01/23/193100<br>
+  で使う図表を置いています。
 - document06 には、<br>
-（６）論文の実効再生産数と活動度の一部期間での一致<br>
-https://sarkov28.hatenablog.com/entry/2024/01/23/193500<br>
-で使う図表を置いています。
-
+  （６）論文の実効再生産数と活動度の一部期間での一致<br>
+  https://sarkov28.hatenablog.com/entry/2024/01/23/193500<br>
+  で使う図表を置いています。
+- document07 には、<br>
+  （７）「ワクチンで感染者が９割減」は誤り<br>
+  https://sarkov28.hatenablog.com/entry/2024/12/17/184600<br>
+  で使う図表を置いています。
