@@ -9,6 +9,8 @@
   - Figure_1.png は、論文の Figure 1 です。
   - Figure_1_part_1.png は、論文の Figure 1 の一部を拡大したものです。
   - Figure_2B.png は、論文の Figure 2B です。
+  - Eq_3.png は、論文の 式(3) です。
+  - Eq_3_exp.png は、論文の 式(3) に説明を加筆したものです。
   - Figure_S1B.png は、論文の補足情報の Figure S1B です。
   - Figure_S2.png は、論文の補足情報の Figure S2 です。
   - Figure_S4.png は、論文の補足情報の Figure S4 です。
@@ -43,4 +45,12 @@
 - document07 には、<br>
   （７）「ワクチンで感染者が９割減」は誤り<br>
   https://sarkov28.hatenablog.com/entry/2024/12/17/184600<br>
+  で使う図表を置いています。
+- document08 には、<br>
+  （８）論文が採用しているワクチン効果への疑問<br>
+  https://sarkov28.hatenablog.com/entry/2025/02/19/234000<br>
+  で使う図表を置いています。
+- document09 には、<br>
+  （９）論文 Figure 1 の fit は当然なのでは<br>
+  https://sarkov28.hatenablog.com/entry/2025/02/19/235000<br>
   で使う図表を置いています。
