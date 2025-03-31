@@ -54,3 +54,8 @@
   （９）論文 Figure 1 の fit は当然なのでは<br>
   https://sarkov28.hatenablog.com/entry/2025/02/19/235000<br>
   で使う図表を置いています。
+- document10 には、<br>
+  （１０）論文 Figure S5 の妥当性への疑問<br>
+  https://sarkov28.hatenablog.com/entry/2025/03/28/172800<br>
+  で使う図表を置いています。
+
