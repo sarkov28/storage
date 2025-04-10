@@ -6,9 +6,10 @@
   https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-023-44942-6/MediaObjects/41598_2023_44942_MOESM2_ESM.csv<br>
   https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-023-44942-6/MediaObjects/41598_2023_44942_MOESM3_ESM.csv
 - このディレクトリには、共通して使う（可能性のある）図表を置いています。
-  - 41598_2023_44942_MOESM2_ESM.csv は、論文の Supplementary Information 2. です。全年齢の報告新規感染者数です。
+  - 41598_2023_44942_MOESM2_ESM.csv は、補足情報の一つであり、全年齢の報告新規感染者数です。
   - 41598_2023_44942_MOESM2_ESM_part1.csv は、41598_2023_44942_MOESM2_ESM.csv の一部です。
   - 41598_2023_44942_MOESM2_ESM_part2.csv は、41598_2023_44942_MOESM2_ESM.csv の一部です。
+  - 41598_2023_44942_MOESM3_ESM.csv は、補足情報の一つであり、全年齢の初回ワクチン接種者数です。
   - Figure_1_part_1.png は、論文の Figure 1 の一部を拡大したものです。
   - Figure_2B.png は、論文の Figure 2B です。
   - Eq_3.png は、論文の 式(3) です。
