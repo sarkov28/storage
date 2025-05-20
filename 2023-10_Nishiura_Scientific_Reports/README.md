@@ -19,7 +19,8 @@
   - Figure_S1B.png は、論文の補足情報の Figure S1B です。
   - Figure_S2.png は、論文の補足情報の Figure S2 です。
   - Figure_S4.png は、論文の補足情報の Figure S4 です。
-  - Figure_S5.png は、論文の補足情報の Figure S5 です。
+  - Figure_S5w.png は、論文の補足情報の Figure S5 です。
+  - Figure_S5.png は、Figure_S5w.png の余白を削除したものです。
   - Figure_S11.png は、論文の補足情報の Figure S11 です。
   - Table_S1.png は、論文の補足情報の Table S1 です。
   - cumulative_newI_per_pop.png は、論文 補足情報 41598_2023_44942_MOESM2_ESM.csv から計算した、累積の新規感染者数の人口比です。
