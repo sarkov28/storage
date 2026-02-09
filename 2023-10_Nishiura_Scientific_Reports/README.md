@@ -64,6 +64,10 @@
   （１０）論文 Figure S5 の妥当性への疑問<br>
   https://sarkov28.hatenablog.com/entry/2025/03/28/172800<br>
   で使う図表を置いています。
+- document11<br>
+  （１１）開示されたプログラムの問題点<br>
+  https://sarkov28.hatenablog.com/entry/2025/05/27/163000<br>
+  で使う図表を置いています。
 - zenodo_15244462<br>
   https://zenodo.org/record/15244462<br>
   で公開された情報に関連するものを置いています。
