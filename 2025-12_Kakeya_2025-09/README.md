@@ -1,7 +1,7 @@
 # （１）概要
 西浦氏が「ワクチンなし」での死者数などを計算したと主張する反実仮想論文 [\[Kayano 2023\]] の再現計算は、（[\[Nishiura 2025\]] で File2 が不開示だったために）最後まで行うことはできませんでした。[\[Kakeya 2025a\]] は File2 の代替データを作成し、再現計算を行い、[\[Kayano 2023\]] の Figure 1 などの計算の問題点を指摘しています。
 
-<a href="https://raw.githubusercontent.com/sarkov28/storage/master/2025-12_Kakeya_2025-09/Kayano_et_al-2023-Scientific_Reports_Figure_1_title.png"><img src="https://raw.githubusercontent.com/sarkov28/storage/master/2025-12_Kakeya_2025-09/Kayano_et_al-2023-Scientific_Reports_Figure_1_title.png" width="100px" alt="[Kayano 2023] の Figure 1"></a><br>
+<a href="https://raw.githubusercontent.com/sarkov28/storage/master/2025-12_Kakeya_2025-09/Kayano_et_al-2023-Scientific_Reports_Figure_1_title.png"><img src="https://raw.githubusercontent.com/sarkov28/storage/master/2025-12_Kakeya_2025-09/Kayano_et_al-2023-Scientific_Reports_Figure_1_title.png" width="400px" alt="[Kayano 2023] の Figure 1"></a><br>
 
 このフォルダには、私が（幾らか異なる考え方で）作成した File2 の代替データを置いています。特に問題を感じていなければ、ここにおいたファイルを使う必要はないかも知れません。
 
